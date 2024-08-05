@@ -7,7 +7,7 @@ class Program
        
         int[] numeros = new int[10];
 
-        // Leer los 10 números desde la consola
+     
         Console.WriteLine("Ingrese 10 números:");
         for (int i = 0; i < numeros.Length; i++)
         {
